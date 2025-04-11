@@ -83,7 +83,7 @@ heroku/nodejs
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/PRINCE-SER/MD-prince.git
+git clone https://github.com/mlbbcommunity/MD-prince.git
 cd MD-prince
 npm start
 ```
@@ -99,7 +99,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/PRINCE-SER/MD-prince
+git clone https://github.com/mlbbcommunity/MD-prince
 cd MD-prince
 npm start
 ```
@@ -111,7 +111,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/PRINCE-SER/MD-prince
+git clone https://github.com/mlbbcommunity/MD-prince
 cd MD-prince
 npm start
 ```
